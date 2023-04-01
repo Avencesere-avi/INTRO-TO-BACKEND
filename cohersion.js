@@ -49,3 +49,22 @@
 // let x = {};
 
 // console.log(1 + x);
+
+
+// let obj = {
+ 
+
+    
+// };
+
+// console.log(obj.toString());
+// console.log(obj.valueOf());
+
+
+
+// console.log(typeof obj.toString());
+// console.log(typeof obj.valueOf());
+
+let obj =  {};
+
+console.log(10+obj);
