@@ -12,7 +12,7 @@
 
 let arr = [ 10, 11, 12, 8 ,7 ,6, 13  , 1 , 2 , 3];
 // arr.sort();
-console.log(arr.sort(function (a,b) {
+console.log(arr.sort(function comparator(a,b) {
 
      return a-b;               // increasing order .
 

@@ -1,6 +1,6 @@
 
 
-"use strict";
+// "use strict";
 // {
 
 //   function name() {
@@ -44,17 +44,63 @@
 
 // }
 
-var x ;
+// var x ;
 
-function x()
-{
-    return "Helloo"
-}
+// function x()
+// {
+//     return "Helloo"
+// }
 
-console.log(x);
+// console.log(x);
 
 
+//  {
 
+//     let x = "Ravi "
+
+//       {
+//         let aa = "Ravi Kumar "
+//         console.log(aa);
+//         console.log(x);
+//       }
+
+//     //   console.log(aa);
+//  }
+
+//  function process (x,y)
+//  {
+
+//      if(x>y)
+//      {
+//         let temp = x;
+//         x = y;
+//         y= temp;
+
+        
+//      }
+
+//      console.log(y,x    );
+
+     
+       
+//  }
+
+ 
+// let x = process(7,2);
+// console.log(x);
+
+// var x = 1;
+// var x = 2;
+
+// console.log(x, "Redeclaration allowed");
+
+// let a = 1;
+// a=5;
+
+// console.log(a);
+
+console.log(a);
+const a = 12;
 
 
 

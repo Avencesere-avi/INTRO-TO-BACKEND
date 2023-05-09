@@ -1,0 +1,33 @@
+
+
+body{
+    background: orange;
+}
+
+div{
+    text-align: center;
+
+    border: solid black 2px;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    border: red solid 2px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 200%;
+}
+
+
+.movie_name{
+    text-align: center;
+}
+
+button{
+    font-weight: bold;
+    text-transform: uppercase;
+    height: 40px;
+}
