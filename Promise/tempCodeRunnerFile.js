@@ -1,10 +1,9 @@
-function uploadData(file, url) {
-    return new Promise(function exec(resolve, reject) {
-        console.log("Started uploading", file, "on", url);
-        setTimeout(function up() {
-            console.log("upload completed");
-            const response = "SUCCESS";
-            resolve(response);
-        }, 2000);
-    })
-}
+.then(function exec(value){
+
+//     console.log("now we will upload");
+//     return uploadData("upload.com", value);
+// })
+
+// .then(function exec(value){
+//     console.log("ok done ho gya bhai " ,value);
+// })
