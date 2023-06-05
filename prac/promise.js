@@ -1,5 +1,5 @@
 
-
+// download code 
 function download (url) {
 
 
@@ -20,7 +20,7 @@ function download (url) {
 
 }; 
 
-
+// save code 
 function save (data){
 
 
@@ -41,7 +41,7 @@ function save (data){
    }) }
 
 
-
+// upload code
    function upload(url , filename){
 
     return new Promise(function exec (resolve , reject){
